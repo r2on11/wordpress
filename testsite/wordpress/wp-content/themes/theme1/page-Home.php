@@ -6,17 +6,18 @@
            <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
               <div class="carousel-inner">
                   <div class="carousel-item active ">
-                      <img  src="https://images.wallpaperscraft.com/image/spots_background_abstract_81493_800x600.jpg" class="photo1 d-block w-100" alt="image">
+                      <img  src="https://ga2019.iso.org/files/live/sites/ga2019/files/headers/ACER/header-welcome.jpg/thumbnails/800x600" class="photo1 d-block w-100" alt="image">
                   </div>
                   <div class="carousel-item ">
-                      <img  src="https://a-static.besthdwallpaper.com/modern-abstract-art-24-wallpaper-800x600-9687_17.jpg" class="photo2 d-block w-100" alt="image2">
+                      <img  src="https://www.voiceofsandiego.org/wp-content/uploads/2019/09/SD-water-canvas-800x600.png" class="photo2 d-block w-100" alt="image2">
                   </div>
                    <div class="carousel-item ">
-                       <img src="https://images.wallpapersden.com/image/download/material-abstract-shapes_59486_800x600.jpg" class="photo3 d-block w-100" alt="image3">
+                       <img src="https://www.euractiv.com/wp-content/uploads/sites/2/2020/03/shutterstock_1454940068-800x600.jpg" class="photo3 d-block w-100" alt="image3">
                     </div>
                </div>
             </div>
     </div>
+    
       
    
 

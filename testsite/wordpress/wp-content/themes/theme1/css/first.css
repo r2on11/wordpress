@@ -1,0 +1,52 @@
+body {
+    background-color: rgba(66, 146, 146, 0.774);
+
+}
+footer {
+    height: 25vh;
+    background-color:#2f3542;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20% 20% 0 0;
+    
+}
+
+.navbar{
+    background-color: #2f3542 !important;
+}
+.navbar a {
+    color: white !important;
+}
+.navbar-brand{
+    margin-left: 20px;
+}
+#menu-footer-navigation {
+    display: flex;
+    list-style-type: none; 
+}
+li {
+    padding: 10px !important;
+    font-weight: 600;
+}
+footer a {
+	color: white;
+}
+
+.crsl {
+	justify-content: center;
+	display:flex;
+}
+.carousel-inner{
+	height: 400px;
+    width: 100vh;
+    margin-top: 10px;
+    margin-bottom: 0;
+    border-radius: 5%;
+}
+
+
+
+
+

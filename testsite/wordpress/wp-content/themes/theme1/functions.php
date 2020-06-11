@@ -3,7 +3,7 @@
 function firsttheme_script_enqueue () {
     wp_enqueue_style('bootstrap', get_template_directory_uri () . '/css/bootstrap.min.css',array(),
     '1.0.0', 'all');
-    wp_enqueue_style('customstyle', get_template_directory_uri () . '/css/firsttheme.css',array(),
+    wp_enqueue_style('customstyle', get_template_directory_uri () . '/css/first.css',array(),
     '1.0.0', 'all');
     
    
