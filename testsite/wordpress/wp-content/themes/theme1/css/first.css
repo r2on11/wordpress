@@ -35,18 +35,40 @@ footer a {
 }
 
 .crsl {
+    margin-top: 10px;
+    display:flex;
 	justify-content: center;
-	display:flex;
+    
 }
 .carousel-inner{
-	height: 400px;
-    width: 100vh;
-    margin-top: 10px;
-    margin-bottom: 0;
-    border-radius: 5%;
+    height: 400px;
+    width: 800px;
+    border-radius: 10px;
+}
+.carousel-item .carousel-caption p{
+    
+    margin-bottom: 7%;
 }
 
+.kerkimi.ui.input {
+    width: 70%;
+}
+
+input.prompt.nav {
+    width: 70%;
+    background-color: rgba(66, 146, 146, 0);
+    color:white;
+
+}
+.kerkimi.nav.ui.input {
+    border: 1px solid white;
+    border-radius: 5px;
 
 
+}
+.kerkimi.nav.ui.input i {
+  color: white;
+
+}
 
 

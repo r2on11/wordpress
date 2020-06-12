@@ -19,6 +19,13 @@
         'container' => false,
         'menu_class' => 'navbar-nav ml-auto' 
     ) ); ?>
+   
+<form class=" d-flex justify-content-center my-auto" role="search" method="get" action="<?php echo home_url ( '/' );?>">
+<div class="kerkimi nav ui icon input mt-2">
+    <input  class="prompt nav"  type="text" placeholder="Search..." value="<?php echo get_search_query(); ?>" name="s" title="Search" />
+    <i class="search icon"></i>
+  </div>
+  </form>
     
   </div>
 </nav>
